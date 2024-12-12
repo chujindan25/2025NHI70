@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "krfont";         
+  src: url("./font/EliceDigitalBaeum_Regular.ttf");
+}
+
+.App {
+  text-align: center;
+  background-color: #ffbe98;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(4vmin);
+  color: white;
+  font-family: 'krfont', 'Malgun Gothic', sans-serif;
+}
+
+#main { 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#main_title {
+  font-family: 'krfont', 'Malgun Gothic', sans-serif;
+  font-size: calc(6vmin);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#main_logo {
+  max-width: 10vw;
+}
+
+#logo {
+  height: 10vmin;
+  pointer-events: none;
+  background-color: white;
+  border-radius: 100%;
+}
+
+#title {
+  max-width: 70vw;
+  font-size: 10vmin;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+/* 오픈카톡 버튼 */
+#main_openChatLink {
+  width: 10vw;
+  padding: 1vw;
+  font-size: 3vmin;
+  white-space: pre-wrap;
+}
+#openChatLink {
+  font-size: 2vw;
+  text-decoration: none;
+}
+.openlogo {
+  width: 10vw;
+  object-fit: cover; 
+}
+
+/* 메뉴콘텐츠 */ 
+#menuContents{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contentsRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.content{
+  white-space: pre-wrap;
+  width: 45vmin;
+  height: 45vmin;
+  margin: 1px;
+  font-size: 50%min;
+  background-color: #5f85bb;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  border-radius: 10%;
+}
+
+.content2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  height: 100%;
+}
+
+.content3{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #5f85bb;
+  color: white;
+  width: 100%;
+  height: 5vh;
+  margin: 3px;
+  border-radius: 1%;
+}
+
+.content4{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  background-color: #5f85bb;
+  color: white;
+  width: 100%;
+  height: 30vh;
+  margin: 3px;
+  border-radius: 1%;
+}
+
+/* 꼬리부분 스타일 */
+#tail {
+  font-size: calc(3vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* 각 페이지 상단 로고 */
+.pageTop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 3vh;
+
+}
+
+.pageBack {
+  padding-top: 1vh;
+  padding-left: 2vw;
+  margin-right: auto;
+}
+
