@@ -9,7 +9,7 @@ const Home = () => {
     const menu1 = "총정모\n프로그램";
     const menu2 = "테이블\n자리표";
     const menu3 = "총정모\n오픈채팅방";
-    const menu4 = "선배님께\n묻습니다";
+    const menu4 = "홈페이지\n건의사항";
     const menu5 = "선배님과의\n대화\n-부록-";
     const menu6 = "뒤풀이\n가이드";
 
@@ -17,7 +17,7 @@ const Home = () => {
     const surveyText = "총정모 만족도 조사";
 
     const openkatalkLink = "https://open.kakao.com/o/gJPUJs7f";
-    const questionLink = "https://docs.google.com/forms/d/e/1FAIpQLSexVuPjIxPiWLS5nVyu5GrHnUsj3sDAMWiV5ylicPYvrbxETA/viewform";
+    const questionLink = "https://forms.gle/4S6UPtjLH1ozn4LP7";
     const surveyLink = "https://docs.google.com/forms/d/e/1FAIpQLSebbJ5LLDjltM3N2mRO_B6CSPfr-JxvVHv3XVKZG0vc7pbtmw/viewform"
     
     return (
@@ -26,7 +26,7 @@ const Home = () => {
                 <div id="main_logo">
                     <img src={logo} id="logo" alt="logo" />
                 </div>
-                <div id="title">총정모 길라잡이</div> 
+                <div id="title">홈페이지 DEMO</div> 
             </div>
             <div id="main_menuBox">
                 <ul id="menuContents">

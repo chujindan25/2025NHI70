@@ -5,7 +5,7 @@
 
 .App {
   text-align: center;
-  background-color: #ffbe98;
+  background-color: #a47864;
   min-height: 100vh;
   min-width: 100vw;
   display: flex;
@@ -87,7 +87,7 @@
   height: 45vmin;
   margin: 1px;
   font-size: 50%min;
-  background-color: #5f85bb;
+  background-color: #6495ed;
   color: white;
   display: flex;
   flex-direction: column;
@@ -113,8 +113,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  text-decoration: none;
-  background-color: #5f85bb;
+  text-decoration: underline;
+  background-color: #a47864;
   color: white;
   width: 100%;
   height: 5vh;
@@ -128,7 +128,8 @@
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  background-color: #5f85bb;
+  white-space: pre-line;
+  background-color: #6495ed;
   color: white;
   width: 100%;
   height: 30vh;
@@ -143,7 +144,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #6495ed;
 }
 
 /* 각 페이지 상단 로고 */
