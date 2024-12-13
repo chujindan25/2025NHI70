@@ -1,16 +1,41 @@
 {
   "files": {
-    "main.css": "/chujindan2025/static/css/main.f855e6bc.css",
-    "main.js": "/chujindan2025/static/js/main.9b783d38.js",
-    "static/js/453.f6b25ee8.chunk.js": "/chujindan2025/static/js/453.f6b25ee8.chunk.js",
-    "static/media/logo.svg": "/chujindan2025/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/chujindan2025/static/css/main.45b9dfc5.css",
+    "main.js": "/chujindan2025/static/js/main.9aa43f1f.js",
+    "static/media/EliceDigitalBaeum_Regular.ttf": "/chujindan2025/static/media/EliceDigitalBaeum_Regular.7d6ca1689a138e53fc8a.ttf",
+    "static/media/012.jpg": "/chujindan2025/static/media/012.d80916aa3e2a12d32d7a.jpg",
+    "static/media/017.jpg": "/chujindan2025/static/media/017.c86eaf2de90e1abcea82.jpg",
+    "static/media/018.jpg": "/chujindan2025/static/media/018.5e27e1195f22ddecb4ce.jpg",
+    "static/media/004.jpg": "/chujindan2025/static/media/004.e62d4e937987bd4fab09.jpg",
+    "static/media/008.jpg": "/chujindan2025/static/media/008.39013ab71db639210c94.jpg",
+    "static/media/011.jpg": "/chujindan2025/static/media/011.8b830538c840355cc8f0.jpg",
+    "static/media/009.jpg": "/chujindan2025/static/media/009.cd5a3c268625f7b5e997.jpg",
+    "static/media/006.jpg": "/chujindan2025/static/media/006.fdb636501c362f013670.jpg",
+    "static/media/016.jpg": "/chujindan2025/static/media/016.9e146fb9dd57f757511d.jpg",
+    "static/media/003.jpg": "/chujindan2025/static/media/003.644a2929a3329360b20c.jpg",
+    "static/media/010.jpg": "/chujindan2025/static/media/010.c674f4dab7e4887af748.jpg",
+    "static/media/005.jpg": "/chujindan2025/static/media/005.9cbc006f86a307f1d9be.jpg",
+    "static/media/014.jpg": "/chujindan2025/static/media/014.42cde0dbfe2b743d32d3.jpg",
+    "static/media/007.jpg": "/chujindan2025/static/media/007.5f1a2a55eb7c47e1883d.jpg",
+    "static/media/013.jpg": "/chujindan2025/static/media/013.582e008b96ddb5237a0f.jpg",
+    "static/media/015.jpg": "/chujindan2025/static/media/015.42fed25ce22c7271cf2d.jpg",
+    "static/media/drinkGuide1.jpg": "/chujindan2025/static/media/drinkGuide1.e8e66b267942a5ef8ba0.jpg",
+    "static/media/drinkGuide2.jpg": "/chujindan2025/static/media/drinkGuide2.c13c4cf8535f1dc11b9a.jpg",
+    "static/media/selfIntro.jpg": "/chujindan2025/static/media/selfIntro.6853cc6aab12522377e8.jpg",
+    "static/media/001.jpg": "/chujindan2025/static/media/001.78065c9cf002f36ec8c9.jpg",
+    "static/media/026.png": "/chujindan2025/static/media/026.ce90f4aa5ba2a88501e3.png",
+    "static/media/timetable.jpg": "/chujindan2025/static/media/timetable.4675083a4c3e0f9bd5ea.jpg",
+    "static/media/027.png": "/chujindan2025/static/media/027.01bf82d27f08839123d4.png",
+    "static/media/002.jpg": "/chujindan2025/static/media/002.4fa8e75069c6b8bba961.jpg",
+    "static/media/028.png": "/chujindan2025/static/media/028.4b765ce5c8dab4127ea5.png",
+    "static/media/029.png": "/chujindan2025/static/media/029.f330b20578c633a1893b.png",
+    "static/media/logo.png": "/chujindan2025/static/media/logo.915fb1be8dc5a85d79e2.png",
     "index.html": "/chujindan2025/index.html",
-    "main.f855e6bc.css.map": "/chujindan2025/static/css/main.f855e6bc.css.map",
-    "main.9b783d38.js.map": "/chujindan2025/static/js/main.9b783d38.js.map",
-    "453.f6b25ee8.chunk.js.map": "/chujindan2025/static/js/453.f6b25ee8.chunk.js.map"
+    "main.45b9dfc5.css.map": "/chujindan2025/static/css/main.45b9dfc5.css.map",
+    "main.9aa43f1f.js.map": "/chujindan2025/static/js/main.9aa43f1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9b783d38.js"
+    "static/css/main.45b9dfc5.css",
+    "static/js/main.9aa43f1f.js"
   ]
 }
