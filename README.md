@@ -1,4 +1,5 @@
 ### 'chujindan2025-1 폴더 -> 가장 최근에 업데이트한 홈페이지 코드 파일'
+1차 수정: 2024.12.14 (src 폴더 위주로 수정)
 
 # Getting Started with Create React App
 
