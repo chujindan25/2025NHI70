@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chujindan2025/static/css/main.34bf1349.css",
-    "main.js": "/chujindan2025/static/js/main.50dfc920.js",
+    "main.css": "/chujindan2025/static/css/main.a54a4056.css",
+    "main.js": "/chujindan2025/static/js/main.f6492665.js",
     "static/media/EliceDigitalBaeum_Regular.ttf": "/chujindan2025/static/media/EliceDigitalBaeum_Regular.7d6ca1689a138e53fc8a.ttf",
     "static/media/012.jpg": "/chujindan2025/static/media/012.d80916aa3e2a12d32d7a.jpg",
     "static/media/017.jpg": "/chujindan2025/static/media/017.c86eaf2de90e1abcea82.jpg",
@@ -35,11 +35,11 @@
     "static/media/slick.ttf": "/chujindan2025/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/chujindan2025/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/chujindan2025/index.html",
-    "main.34bf1349.css.map": "/chujindan2025/static/css/main.34bf1349.css.map",
-    "main.50dfc920.js.map": "/chujindan2025/static/js/main.50dfc920.js.map"
+    "main.a54a4056.css.map": "/chujindan2025/static/css/main.a54a4056.css.map",
+    "main.f6492665.js.map": "/chujindan2025/static/js/main.f6492665.js.map"
   },
   "entrypoints": [
-    "static/css/main.34bf1349.css",
-    "static/js/main.50dfc920.js"
+    "static/css/main.a54a4056.css",
+    "static/js/main.f6492665.js"
   ]
 }
