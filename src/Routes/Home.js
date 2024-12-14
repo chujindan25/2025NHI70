@@ -10,8 +10,8 @@ const Home = () => {
     const menu2 = "테이블\n자리표";
     const menu3 = "총정모\n오픈채팅방";
     const menu4 = "홈페이지\n건의사항";
-    const menu5 = "선배님과의\n대화\n-부록-";
-    const menu6 = "뒤풀이\n가이드";
+    const menu5 = "선배님과의\n대화\n-부록-\n(swipe)";
+    const menu6 = "뒤풀이\n가이드\n(scroll)";
 
     const seatText = "총정모 추진단원";
     const surveyText = "총정모 만족도 조사";

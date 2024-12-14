@@ -32,3 +32,4 @@ const talk7 = () => {
 }
 
 export default talk7
+
