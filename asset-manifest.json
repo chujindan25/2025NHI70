@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chujindan2025/static/css/main.8258f27f.css",
-    "main.js": "/chujindan2025/static/js/main.0b97a0b0.js",
+    "main.css": "/chujindan2025/static/css/main.34bf1349.css",
+    "main.js": "/chujindan2025/static/js/main.50dfc920.js",
     "static/media/EliceDigitalBaeum_Regular.ttf": "/chujindan2025/static/media/EliceDigitalBaeum_Regular.7d6ca1689a138e53fc8a.ttf",
     "static/media/012.jpg": "/chujindan2025/static/media/012.d80916aa3e2a12d32d7a.jpg",
     "static/media/017.jpg": "/chujindan2025/static/media/017.c86eaf2de90e1abcea82.jpg",
@@ -30,12 +30,16 @@
     "static/media/028.png": "/chujindan2025/static/media/028.4b765ce5c8dab4127ea5.png",
     "static/media/029.png": "/chujindan2025/static/media/029.f330b20578c633a1893b.png",
     "static/media/logo.png": "/chujindan2025/static/media/logo.915fb1be8dc5a85d79e2.png",
+    "static/media/slick.svg": "/chujindan2025/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/chujindan2025/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/chujindan2025/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/chujindan2025/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/chujindan2025/index.html",
-    "main.8258f27f.css.map": "/chujindan2025/static/css/main.8258f27f.css.map",
-    "main.0b97a0b0.js.map": "/chujindan2025/static/js/main.0b97a0b0.js.map"
+    "main.34bf1349.css.map": "/chujindan2025/static/css/main.34bf1349.css.map",
+    "main.50dfc920.js.map": "/chujindan2025/static/js/main.50dfc920.js.map"
   },
   "entrypoints": [
-    "static/css/main.8258f27f.css",
-    "static/js/main.0b97a0b0.js"
+    "static/css/main.34bf1349.css",
+    "static/js/main.50dfc920.js"
   ]
 }
